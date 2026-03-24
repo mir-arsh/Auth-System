@@ -16,7 +16,7 @@ const useUserData = () => {
     const fetchUserData = async () => {
       try {
         const response = await fetch(
-          `http://localhost:5000/api/users/${user.id}`,
+          `${process.env.REACT_APP_API_URL}api/users/${user.id}`,
           {
             method: "GET",
             headers: {
