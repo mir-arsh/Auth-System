@@ -1,0 +1,65 @@
+.admin-dashboard table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+.admin-dashboard thead {
+  background: #0f172a;
+}
+
+.admin-dashboard th {
+  padding: 0.9rem;
+  text-align: left;
+  font-weight: 500;
+  color: #93c5fd;
+  border-bottom: 1px solid #334155;
+}
+
+.admin-dashboard td {
+  padding: 0.9rem;
+  border-bottom: 1px solid #334155;
+  color: #e2e8f0;
+}
+.buttonA {
+  padding: 0.4rem 0.8rem;
+  font-size: 0.8rem;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.bta1 {
+  background: #2563eb;
+  color: #ffffff;
+}
+
+.bta1:hover {
+  background: #1d4ed8;
+}
+
+.bta2 {
+  background: rgba(239, 68, 68, 0.15);
+  color: #f87171;
+  border: 1px solid #ef4444;
+}
+
+.bta2:hover {
+  background: #524141;
+  color: #ffffff;
+}
+
+.dash-h2 {
+  margin-top: -2rem;
+}
+
+.disclaimer {
+  max-width: 700px;
+  margin: 1rem auto;
+  line-height: 1.6;
+  font-size: 0.82rem;
+  color: #cbd5f5;
+  text-align: center;
+  margin-top: 2rem;
+}
