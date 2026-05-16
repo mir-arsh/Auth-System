@@ -117,7 +117,7 @@ ngrok http 5000
 **Note:** For deployment links in certain files have been changed from localhost to domain.
 
 ## Live Link: 
-https://tbd.com
+https://arsh-auth.vercel.app
 
 
 ## 👨‍💻 Author
